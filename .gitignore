@@ -37,3 +37,7 @@ yarn-error.*
 
 # bun
 bun.lock
+
+.idea
+.github
+.vscode
